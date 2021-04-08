@@ -6,7 +6,8 @@ What is Principal Component Analysis ?
 In simple words, PCA is a method of obtaining important variables (in form of components) from a large set of variables available in a data set. It extracts low dimensional set of features by taking a projection of irrelevant dimensions from a high dimensional data set with a motive to capture as much information as possible. With fewer variables obtained while minimising the loss of information, visualization also becomes much more meaningful. PCA is more useful when dealing with 3 or higher dimensional data.
 It is always performed on a symmetric correlation or covariance matrix. This means the matrix should be numeric and have standardized data.
 
-Points to Remember for PCA
+
+Points to Remember for PCA :
 
 PCA is used to overcome features redundancy in a data set.
 These features are low dimensional in nature.
@@ -19,5 +20,5 @@ PCA works best on data set having 3 or higher dimensions. Because, with higher d
 PCA is applied on a data set with numeric variables.
 PCA is a tool which helps to produce better visualizations of high dimensional data.
 
-
+Reference Link -
 https://www.analyticsvidhya.com/blog/2016/03/pca-practical-guide-principal-component-analysis-python/
