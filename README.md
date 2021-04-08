@@ -1,5 +1,5 @@
 # Principal-Component-Analysis-PCA
-Done PCA on Food Outlet Dataset
+Done PCA on Food Outlet Marketing Dataset
 
 What is Principal Component Analysis ?
 
